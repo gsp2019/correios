@@ -1,0 +1,36 @@
+body {
+  background-color: powderblue;
+  font-family: 'Arial', sans-serif; /* Altere a fonte aqui */
+}
+header{
+  background-color: rgb(51, 122, 163);
+}
+body /*cor de fundo*/{
+  background-color: 4aa5e2;
+}
+button/*botão*/ {
+  width: 40%;
+  padding: 10px;
+  background-color: #4aa5e2;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+input /*caixa de texto*/{
+  width:30%;
+  padding: 15px;
+  background-color: #fcfcfc;
+  color: #4ebd9c;
+  font-size: 30px;
+  font-weight: bold;
+  border: yes;
+  border-radius: 60px;
+  cursor: pointer;
+  transition: background-color 0.1s;
+
+}
